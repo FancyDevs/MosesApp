@@ -1,0 +1,11 @@
+E:\Workspace\Xamarin\MosesApp\MosesApp.Core\bin\Debug\MosesApp.Core.dll
+E:\Workspace\Xamarin\MosesApp\MosesApp.Core\bin\Debug\MosesApp.Core.pdb
+E:\Workspace\Xamarin\MosesApp\MosesApp.Core\bin\Debug\MvvmCross.Binding.dll
+E:\Workspace\Xamarin\MosesApp\MosesApp.Core\bin\Debug\MvvmCross.Core.dll
+E:\Workspace\Xamarin\MosesApp\MosesApp.Core\bin\Debug\MvvmCross.Localization.dll
+E:\Workspace\Xamarin\MosesApp\MosesApp.Core\bin\Debug\MvvmCross.Platform.dll
+E:\Workspace\Xamarin\MosesApp\MosesApp.Core\obj\Debug\MosesApp.Core.csprojResolveAssemblyReference.cache
+E:\Workspace\Xamarin\MosesApp\MosesApp.Core\obj\Debug\MosesApp.Core.dll
+E:\Workspace\Xamarin\MosesApp\MosesApp.Core\obj\Debug\MosesApp.Core.pdb
+E:\Workspace\Xamarin\MosesApp\MosesApp.Core\obj\Debug\MosesApp.Core.dll.mdb
+E:\Workspace\Xamarin\MosesApp\MosesApp.Core\bin\Debug\MosesApp.Core.dll.mdb

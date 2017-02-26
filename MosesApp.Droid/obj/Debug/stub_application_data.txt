@@ -1,0 +1,2 @@
+android.app.Application
+MosesApp.Droid.MosesApp.Droid
