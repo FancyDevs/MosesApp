@@ -9,13 +9,13 @@ namespace MosesApp.Core.ViewModels
         public ICommand GoToRegister { get { return new MvxCommand(DoGoToRegister); } }
 
         void DoGoToLogin()
-        {
-
-        }
+		{
+			ShowViewModel<LoginViewModel>();
+		}
 
         void DoGoToRegister()
         {
-
+            ShowViewModel<RegisterViewModel>();
         }
     }
 }

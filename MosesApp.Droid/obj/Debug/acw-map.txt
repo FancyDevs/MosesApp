@@ -6,6 +6,14 @@ MosesApp.Droid.Views.FirstView, MosesApp.Droid;md5a963ecf67793247438eb9b9bd54a9d
 MosesApp.Droid.Views.FirstView, MosesApp.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5a963ecf67793247438eb9b9bd54a9dba.FirstView
 MosesApp.Droid.Views.FirstView;md5a963ecf67793247438eb9b9bd54a9dba.FirstView
 mosesapp.droid.views.FirstView;md5a963ecf67793247438eb9b9bd54a9dba.FirstView
+MosesApp.Droid.Source.Views.LoginView, MosesApp.Droid;md508f189393849942af9754d104b79fee5.LoginView
+MosesApp.Droid.Source.Views.LoginView, MosesApp.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md508f189393849942af9754d104b79fee5.LoginView
+MosesApp.Droid.Source.Views.LoginView;md508f189393849942af9754d104b79fee5.LoginView
+mosesapp.droid.source.views.LoginView;md508f189393849942af9754d104b79fee5.LoginView
+MosesApp.Droid.Source.Views.RegisterView, MosesApp.Droid;md508f189393849942af9754d104b79fee5.RegisterView
+MosesApp.Droid.Source.Views.RegisterView, MosesApp.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md508f189393849942af9754d104b79fee5.RegisterView
+MosesApp.Droid.Source.Views.RegisterView;md508f189393849942af9754d104b79fee5.RegisterView
+mosesapp.droid.source.views.RegisterView;md508f189393849942af9754d104b79fee5.RegisterView
 MvvmCross.Binding.Droid.Views.MvxBaseListItemView, MvvmCross.Binding.Droid;md5bf0126c95bf9fc0db24c02c9adb4cfa7.MvxBaseListItemView
 MvvmCross.Binding.Droid.Views.MvxBaseListItemView, MvvmCross.Binding.Droid, Version=4.0.0.0, Culture=neutral, PublicKeyToken=null;md5bf0126c95bf9fc0db24c02c9adb4cfa7.MvxBaseListItemView
 MvvmCross.Binding.Droid.Views.MvxBaseListItemView;md5bf0126c95bf9fc0db24c02c9adb4cfa7.MvxBaseListItemView

@@ -139,6 +139,21 @@ namespace MosesApp.Droid
 			// aapt resource value: 0x7f040002
 			public const int button_register = 2130968578;
 			
+			// aapt resource value: 0x7f040008
+			public const int edittext_email = 2130968584;
+			
+			// aapt resource value: 0x7f040006
+			public const int edittext_firstname = 2130968582;
+			
+			// aapt resource value: 0x7f040007
+			public const int edittext_lastname = 2130968583;
+			
+			// aapt resource value: 0x7f040005
+			public const int edittext_password = 2130968581;
+			
+			// aapt resource value: 0x7f040004
+			public const int edittext_username = 2130968580;
+			
 			static Id()
 			{
 				global::Android.Runtime.ResourceIdManager.UpdateIdValues();
@@ -156,10 +171,16 @@ namespace MosesApp.Droid
 			public const int FirstView = 2130903040;
 			
 			// aapt resource value: 0x7f030001
-			public const int Main = 2130903041;
+			public const int LoginView = 2130903041;
 			
 			// aapt resource value: 0x7f030002
-			public const int SplashScreen = 2130903042;
+			public const int Main = 2130903042;
+			
+			// aapt resource value: 0x7f030003
+			public const int RegisterView = 2130903043;
+			
+			// aapt resource value: 0x7f030004
+			public const int SplashScreen = 2130903044;
 			
 			static Layout()
 			{

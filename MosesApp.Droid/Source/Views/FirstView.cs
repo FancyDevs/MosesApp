@@ -9,8 +9,7 @@ using MvvmCross.Droid.Views;
 
 namespace MosesApp.Droid.Views
 {
-    [Activity(NoHistory = true
-        , Theme = "@style/Theme.PreLogin"
+    [Activity(Theme = "@style/Theme.PreLogin"
         , ScreenOrientation = ScreenOrientation.Portrait)]
     public class FirstView : MvxActivity
     {
@@ -25,7 +24,7 @@ namespace MosesApp.Droid.Views
             var bindingSet = this.CreateBindingSet<FirstView, FirstViewModel>();
             bindingSet.Bind(loginButton).For(loginButton.ClickEvent()).To(vm => vm.GoToLogin);
             bindingSet.Bind(registerButton).For(loginButton.ClickEvent()).To(vm => vm.GoToRegister);
-
+            bindingSet.Apply();
         }
     }
 }

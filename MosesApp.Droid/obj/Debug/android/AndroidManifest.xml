@@ -11,6 +11,8 @@
       </intent-filter>
     </activity>
     <activity android:noHistory="true" android:screenOrientation="portrait" android:theme="@style/Theme.PreLogin" android:name="md5a963ecf67793247438eb9b9bd54a9dba.FirstView" />
+    <activity android:screenOrientation="portrait" android:theme="@style/Theme.PreLogin" android:name="md508f189393849942af9754d104b79fee5.LoginView" />
+    <activity android:screenOrientation="portrait" android:theme="@style/Theme.PreLogin" android:name="md508f189393849942af9754d104b79fee5.RegisterView" />
     <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="MosesApp.Droid.MosesApp.Droid.mono.MonoRuntimeProvider.__mono_init__" />
     <!--suppress ExportedReceiver-->
     <receiver android:name="mono.android.Seppuku">

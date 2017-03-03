@@ -2,7 +2,7 @@
 <xs:schema xmlns:android="http://schemas.android.com/apk/res/android" attributeFormDefault="qualified" elementFormDefault="unqualified" targetNamespace="http://schemas.android.com/apk/res/android" xmlns:xs="http://www.w3.org/2001/XMLSchema">
   <xs:annotation>
     <xs:documentation>v23</xs:documentation>
-    <xs:documentation>2/26/2017 2:21:50 PM</xs:documentation>
+    <xs:documentation>2/26/2017 3:47:15 PM</xs:documentation>
   </xs:annotation>
   <xs:attribute name="accessibilityLiveRegion">
     <xs:annotation>
@@ -16862,6 +16862,11 @@
             <xs:enumeration value="@+id/checkBox1" />
             <xs:enumeration value="@id/button_login" />
             <xs:enumeration value="@id/button_register" />
+            <xs:enumeration value="@id/edittext_email" />
+            <xs:enumeration value="@id/edittext_firstname" />
+            <xs:enumeration value="@id/edittext_lastname" />
+            <xs:enumeration value="@id/edittext_password" />
+            <xs:enumeration value="@id/edittext_username" />
             <xs:enumeration value="@id/MvvmCrossTagId" />
             <xs:enumeration value="@id/MvxBindingTagUnique" />
             <xs:enumeration value="@android:id/accessibilityActionContextClick" />
@@ -19745,6 +19750,11 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@id/button_login" />
             <xs:enumeration value="@id/button_register" />
+            <xs:enumeration value="@id/edittext_email" />
+            <xs:enumeration value="@id/edittext_firstname" />
+            <xs:enumeration value="@id/edittext_lastname" />
+            <xs:enumeration value="@id/edittext_password" />
+            <xs:enumeration value="@id/edittext_username" />
             <xs:enumeration value="@id/MvvmCrossTagId" />
             <xs:enumeration value="@id/MvxBindingTagUnique" />
             <xs:enumeration value="@android:id/accessibilityActionContextClick" />
@@ -19823,6 +19833,11 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@id/button_login" />
             <xs:enumeration value="@id/button_register" />
+            <xs:enumeration value="@id/edittext_email" />
+            <xs:enumeration value="@id/edittext_firstname" />
+            <xs:enumeration value="@id/edittext_lastname" />
+            <xs:enumeration value="@id/edittext_password" />
+            <xs:enumeration value="@id/edittext_username" />
             <xs:enumeration value="@id/MvvmCrossTagId" />
             <xs:enumeration value="@id/MvxBindingTagUnique" />
             <xs:enumeration value="@android:id/accessibilityActionContextClick" />
@@ -19901,6 +19916,11 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@id/button_login" />
             <xs:enumeration value="@id/button_register" />
+            <xs:enumeration value="@id/edittext_email" />
+            <xs:enumeration value="@id/edittext_firstname" />
+            <xs:enumeration value="@id/edittext_lastname" />
+            <xs:enumeration value="@id/edittext_password" />
+            <xs:enumeration value="@id/edittext_username" />
             <xs:enumeration value="@id/MvvmCrossTagId" />
             <xs:enumeration value="@id/MvxBindingTagUnique" />
             <xs:enumeration value="@android:id/accessibilityActionContextClick" />
@@ -19979,6 +19999,11 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@id/button_login" />
             <xs:enumeration value="@id/button_register" />
+            <xs:enumeration value="@id/edittext_email" />
+            <xs:enumeration value="@id/edittext_firstname" />
+            <xs:enumeration value="@id/edittext_lastname" />
+            <xs:enumeration value="@id/edittext_password" />
+            <xs:enumeration value="@id/edittext_username" />
             <xs:enumeration value="@id/MvvmCrossTagId" />
             <xs:enumeration value="@id/MvxBindingTagUnique" />
             <xs:enumeration value="@android:id/accessibilityActionContextClick" />
@@ -20057,6 +20082,11 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@id/button_login" />
             <xs:enumeration value="@id/button_register" />
+            <xs:enumeration value="@id/edittext_email" />
+            <xs:enumeration value="@id/edittext_firstname" />
+            <xs:enumeration value="@id/edittext_lastname" />
+            <xs:enumeration value="@id/edittext_password" />
+            <xs:enumeration value="@id/edittext_username" />
             <xs:enumeration value="@id/MvvmCrossTagId" />
             <xs:enumeration value="@id/MvxBindingTagUnique" />
             <xs:enumeration value="@android:id/accessibilityActionContextClick" />
@@ -20375,6 +20405,11 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@id/button_login" />
             <xs:enumeration value="@id/button_register" />
+            <xs:enumeration value="@id/edittext_email" />
+            <xs:enumeration value="@id/edittext_firstname" />
+            <xs:enumeration value="@id/edittext_lastname" />
+            <xs:enumeration value="@id/edittext_password" />
+            <xs:enumeration value="@id/edittext_username" />
             <xs:enumeration value="@id/MvvmCrossTagId" />
             <xs:enumeration value="@id/MvxBindingTagUnique" />
             <xs:enumeration value="@android:id/accessibilityActionContextClick" />
@@ -20453,6 +20488,11 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@id/button_login" />
             <xs:enumeration value="@id/button_register" />
+            <xs:enumeration value="@id/edittext_email" />
+            <xs:enumeration value="@id/edittext_firstname" />
+            <xs:enumeration value="@id/edittext_lastname" />
+            <xs:enumeration value="@id/edittext_password" />
+            <xs:enumeration value="@id/edittext_username" />
             <xs:enumeration value="@id/MvvmCrossTagId" />
             <xs:enumeration value="@id/MvxBindingTagUnique" />
             <xs:enumeration value="@android:id/accessibilityActionContextClick" />
@@ -20531,6 +20571,11 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@id/button_login" />
             <xs:enumeration value="@id/button_register" />
+            <xs:enumeration value="@id/edittext_email" />
+            <xs:enumeration value="@id/edittext_firstname" />
+            <xs:enumeration value="@id/edittext_lastname" />
+            <xs:enumeration value="@id/edittext_password" />
+            <xs:enumeration value="@id/edittext_username" />
             <xs:enumeration value="@id/MvvmCrossTagId" />
             <xs:enumeration value="@id/MvxBindingTagUnique" />
             <xs:enumeration value="@android:id/accessibilityActionContextClick" />
@@ -20649,6 +20694,11 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@id/button_login" />
             <xs:enumeration value="@id/button_register" />
+            <xs:enumeration value="@id/edittext_email" />
+            <xs:enumeration value="@id/edittext_firstname" />
+            <xs:enumeration value="@id/edittext_lastname" />
+            <xs:enumeration value="@id/edittext_password" />
+            <xs:enumeration value="@id/edittext_username" />
             <xs:enumeration value="@id/MvvmCrossTagId" />
             <xs:enumeration value="@id/MvxBindingTagUnique" />
             <xs:enumeration value="@android:id/accessibilityActionContextClick" />
@@ -21169,6 +21219,11 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@id/button_login" />
             <xs:enumeration value="@id/button_register" />
+            <xs:enumeration value="@id/edittext_email" />
+            <xs:enumeration value="@id/edittext_firstname" />
+            <xs:enumeration value="@id/edittext_lastname" />
+            <xs:enumeration value="@id/edittext_password" />
+            <xs:enumeration value="@id/edittext_username" />
             <xs:enumeration value="@id/MvvmCrossTagId" />
             <xs:enumeration value="@id/MvxBindingTagUnique" />
             <xs:enumeration value="@android:id/accessibilityActionContextClick" />
@@ -21247,6 +21302,11 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@id/button_login" />
             <xs:enumeration value="@id/button_register" />
+            <xs:enumeration value="@id/edittext_email" />
+            <xs:enumeration value="@id/edittext_firstname" />
+            <xs:enumeration value="@id/edittext_lastname" />
+            <xs:enumeration value="@id/edittext_password" />
+            <xs:enumeration value="@id/edittext_username" />
             <xs:enumeration value="@id/MvvmCrossTagId" />
             <xs:enumeration value="@id/MvxBindingTagUnique" />
             <xs:enumeration value="@android:id/accessibilityActionContextClick" />
@@ -21325,6 +21385,11 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@id/button_login" />
             <xs:enumeration value="@id/button_register" />
+            <xs:enumeration value="@id/edittext_email" />
+            <xs:enumeration value="@id/edittext_firstname" />
+            <xs:enumeration value="@id/edittext_lastname" />
+            <xs:enumeration value="@id/edittext_password" />
+            <xs:enumeration value="@id/edittext_username" />
             <xs:enumeration value="@id/MvvmCrossTagId" />
             <xs:enumeration value="@id/MvxBindingTagUnique" />
             <xs:enumeration value="@android:id/accessibilityActionContextClick" />
@@ -21403,6 +21468,11 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@id/button_login" />
             <xs:enumeration value="@id/button_register" />
+            <xs:enumeration value="@id/edittext_email" />
+            <xs:enumeration value="@id/edittext_firstname" />
+            <xs:enumeration value="@id/edittext_lastname" />
+            <xs:enumeration value="@id/edittext_password" />
+            <xs:enumeration value="@id/edittext_username" />
             <xs:enumeration value="@id/MvvmCrossTagId" />
             <xs:enumeration value="@id/MvxBindingTagUnique" />
             <xs:enumeration value="@android:id/accessibilityActionContextClick" />
