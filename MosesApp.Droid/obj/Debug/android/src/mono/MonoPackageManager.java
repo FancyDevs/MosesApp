@@ -99,34 +99,17 @@ class MonoPackageManager_Resources {
 	public static final String[] Assemblies = new String[]{
 		/* We need to ensure that "MosesApp.Droid.dll" comes first in this list. */
 		"MosesApp.Droid.dll",
-		"Mono.Android.Export.dll",
-		"MosesApp.Core.dll",
-		"MvvmCross.Binding.dll",
-		"MvvmCross.Binding.Droid.dll",
+		"MvvmCross.Platform.dll",
+		"MvvmCross.Platform.Droid.dll",
 		"MvvmCross.Core.dll",
 		"MvvmCross.Droid.dll",
 		"MvvmCross.Droid.Shared.dll",
+		"MvvmCross.Binding.dll",
+		"MvvmCross.Binding.Droid.dll",
 		"MvvmCross.Localization.dll",
-		"MvvmCross.Platform.dll",
-		"MvvmCross.Platform.Droid.dll",
-		"System.Threading.dll",
-		"System.Runtime.dll",
-		"System.Collections.dll",
-		"System.Collections.Concurrent.dll",
-		"System.Diagnostics.Debug.dll",
-		"System.Reflection.dll",
-		"System.Linq.dll",
-		"System.Runtime.InteropServices.dll",
-		"System.Runtime.Extensions.dll",
-		"System.Reflection.Extensions.dll",
-		"System.Resources.ResourceManager.dll",
-		"System.ObjectModel.dll",
-		"System.Linq.Expressions.dll",
-		"System.Globalization.dll",
-		"System.Threading.Tasks.dll",
-		"System.IO.dll",
+		"MosesApp.Core.dll",
 	};
 	public static final String[] Dependencies = new String[]{
 	};
-	public static final String ApiPackageName = "Mono.Android.Platform.ApiLevel_24";
+	public static final String ApiPackageName = "Mono.Android.Platform.ApiLevel_25";
 }

@@ -1,0 +1,9 @@
+/Users/joshua.davis/Sites/Moses/MosesApp.Core/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile111.AssemblyAttribute.cs
+/Users/joshua.davis/Sites/Moses/MosesApp.Core/bin/Debug/MosesApp.Core.dll.mdb
+/Users/joshua.davis/Sites/Moses/MosesApp.Core/bin/Debug/MosesApp.Core.dll
+/Users/joshua.davis/Sites/Moses/MosesApp.Core/obj/Debug/MosesApp.Core.dll
+/Users/joshua.davis/Sites/Moses/MosesApp.Core/obj/Debug/MosesApp.Core.dll.mdb
+/Users/joshua.davis/Sites/Moses/MosesApp.Core/bin/Debug/MvvmCross.Platform.dll
+/Users/joshua.davis/Sites/Moses/MosesApp.Core/bin/Debug/MvvmCross.Core.dll
+/Users/joshua.davis/Sites/Moses/MosesApp.Core/bin/Debug/MvvmCross.Binding.dll
+/Users/joshua.davis/Sites/Moses/MosesApp.Core/bin/Debug/MvvmCross.Localization.dll

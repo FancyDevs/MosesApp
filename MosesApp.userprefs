@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{3E74BEEF-D2AC-4A8B-8E2F-3724D1790505}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MosesApp.Droid/Source/Views/SplashScreen.cs">
+    <Files>
+      <File FileName="MosesApp.Core/Source/App.cs" Line="14" Column="59" />
+      <File FileName="MosesApp.Core/Source/ViewModels/FirstViewModel.cs" Line="13" Column="32" />
+      <File FileName="MosesApp.Droid/Source/Views/FirstView.cs" Line="19" Column="55" />
+      <File FileName="MosesApp.Droid/Source/Views/SplashScreen.cs" Line="12" Column="27" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.MosesApp.Droid AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.192.168.56.101:5555" />
+  <MultiItemStartupConfigurations />
+</Properties>

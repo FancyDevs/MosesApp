@@ -3,7 +3,9 @@
   <uses-sdk android:minSdkVersion="16" android:targetSdkVersion="21" />
   <uses-permission android:name="android.permission.INTERNET" />
   <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
-  <application android:label="MosesApp.Droid" android:name="android.app.Application" android:allowBackup="true" android:icon="@drawable/icon" android:debuggable="true">
+  <application android:label="MosesApp.Droid" android:name="android.app.Application" android:allowBackup="true" android:debuggable="true">
+    <activity android:screenOrientation="portrait" android:theme="@style/Theme.PreLogin" android:name="md508f189393849942af9754d104b79fee5.LoginView" />
+    <activity android:screenOrientation="portrait" android:theme="@style/Theme.PreLogin" android:name="md508f189393849942af9754d104b79fee5.RegisterView" />
     <activity android:icon="@drawable/icon" android:label="MosesApp.Droid" android:noHistory="true" android:screenOrientation="portrait" android:theme="@style/Theme.Splash" android:name="md59766a46f25d47e5f07a3ea11bb4701f4.SplashScreen">
       <intent-filter>
         <action android:name="android.intent.action.MAIN" />
@@ -11,8 +13,6 @@
       </intent-filter>
     </activity>
     <activity android:noHistory="true" android:screenOrientation="portrait" android:theme="@style/Theme.PreLogin" android:name="md5a963ecf67793247438eb9b9bd54a9dba.FirstView" />
-    <activity android:screenOrientation="portrait" android:theme="@style/Theme.PreLogin" android:name="md508f189393849942af9754d104b79fee5.LoginView" />
-    <activity android:screenOrientation="portrait" android:theme="@style/Theme.PreLogin" android:name="md508f189393849942af9754d104b79fee5.RegisterView" />
     <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="MosesApp.Droid.MosesApp.Droid.mono.MonoRuntimeProvider.__mono_init__" />
     <!--suppress ExportedReceiver-->
     <receiver android:name="mono.android.Seppuku">
