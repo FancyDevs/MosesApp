@@ -1,10 +1,10 @@
 ﻿<Properties StartupConfiguration="{3E74BEEF-D2AC-4A8B-8E2F-3724D1790505}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="MosesApp.Droid/Source/Views/SplashScreen.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MosesApp.Core/Source/Service/AzureDataService.cs">
     <Files>
-      <File FileName="MosesApp.Core/Source/App.cs" Line="14" Column="59" />
-      <File FileName="MosesApp.Core/Source/ViewModels/FirstViewModel.cs" Line="13" Column="32" />
-      <File FileName="MosesApp.Droid/Source/Views/FirstView.cs" Line="19" Column="55" />
-      <File FileName="MosesApp.Droid/Source/Views/SplashScreen.cs" Line="12" Column="27" />
+      <File FileName="MosesApp.Core/Source/Service/AzureDataService.cs" Line="28" Column="1" />
+      <File FileName="MosesApp.Droid/Source/Views/FirstView.cs" Line="38" Column="36" />
+      <File FileName="MosesApp.Core/Source/DataModel/Profile.cs" Line="5" Column="3" />
+      <File FileName="MosesApp.Droid/Source/Views/SplashScreen.cs" Line="18" Column="4" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />

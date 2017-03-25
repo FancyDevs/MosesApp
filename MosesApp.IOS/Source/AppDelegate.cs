@@ -17,6 +17,9 @@ namespace MosesApp.IOS
 
         public override bool FinishedLaunching(UIApplication app, NSDictionary options)
         {
+			Microsoft.WindowsAzure.MobileServices.CurrentPlatform.Init();
+			SQLitePCL.CurrentPlatform.Init();
+
             Window = new UIWindow(UIScreen.MainScreen.Bounds);
 
             var setup = new Setup(this, Window);

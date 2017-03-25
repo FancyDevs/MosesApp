@@ -7,3 +7,11 @@
 /Users/joshua.davis/Sites/Moses/MosesApp.Core/bin/Debug/MvvmCross.Core.dll
 /Users/joshua.davis/Sites/Moses/MosesApp.Core/bin/Debug/MvvmCross.Binding.dll
 /Users/joshua.davis/Sites/Moses/MosesApp.Core/bin/Debug/MvvmCross.Localization.dll
+/Users/joshua.davis/Sites/Moses/MosesApp.Core/bin/Debug/System.Net.Http.Extensions.dll
+/Users/joshua.davis/Sites/Moses/MosesApp.Core/bin/Debug/System.Net.Http.Primitives.dll
+/Users/joshua.davis/Sites/Moses/MosesApp.Core/bin/Debug/Newtonsoft.Json.dll
+/Users/joshua.davis/Sites/Moses/MosesApp.Core/bin/Debug/Microsoft.WindowsAzure.Mobile.dll
+/Users/joshua.davis/Sites/Moses/MosesApp.Core/bin/Debug/SQLitePCLRaw.core.dll
+/Users/joshua.davis/Sites/Moses/MosesApp.Core/bin/Debug/SQLitePCLRaw.batteries_green.dll
+/Users/joshua.davis/Sites/Moses/MosesApp.Core/bin/Debug/SQLitePCLRaw.batteries_v2.dll
+/Users/joshua.davis/Sites/Moses/MosesApp.Core/bin/Debug/Microsoft.WindowsAzure.Mobile.SQLiteStore.dll

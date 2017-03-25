@@ -29,3 +29,14 @@
 /Users/joshua.davis/Sites/Moses/MosesApp.Droid/bin/Debug/MvvmCross.Localization.dll
 /Users/joshua.davis/Sites/Moses/MosesApp.Droid/bin/Debug/MosesApp.Core.dll
 /Users/joshua.davis/Sites/Moses/MosesApp.Droid/bin/Debug/MosesApp.Core.dll.mdb
+/Users/joshua.davis/Sites/Moses/MosesApp.Droid/bin/Debug/System.Net.Http.Extensions.dll
+/Users/joshua.davis/Sites/Moses/MosesApp.Droid/bin/Debug/System.Net.Http.Primitives.dll
+/Users/joshua.davis/Sites/Moses/MosesApp.Droid/bin/Debug/Newtonsoft.Json.dll
+/Users/joshua.davis/Sites/Moses/MosesApp.Droid/bin/Debug/Microsoft.WindowsAzure.Mobile.dll
+/Users/joshua.davis/Sites/Moses/MosesApp.Droid/bin/Debug/Microsoft.WindowsAzure.Mobile.Ext.dll
+/Users/joshua.davis/Sites/Moses/MosesApp.Droid/bin/Debug/SQLitePCLRaw.core.dll
+/Users/joshua.davis/Sites/Moses/MosesApp.Droid/bin/Debug/SQLitePCLRaw.lib.e_sqlite3.dll
+/Users/joshua.davis/Sites/Moses/MosesApp.Droid/bin/Debug/SQLitePCLRaw.provider.e_sqlite3.dll
+/Users/joshua.davis/Sites/Moses/MosesApp.Droid/bin/Debug/SQLitePCLRaw.batteries_green.dll
+/Users/joshua.davis/Sites/Moses/MosesApp.Droid/bin/Debug/SQLitePCLRaw.batteries_v2.dll
+/Users/joshua.davis/Sites/Moses/MosesApp.Droid/bin/Debug/Microsoft.WindowsAzure.Mobile.SQLiteStore.dll
