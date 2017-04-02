@@ -1,10 +1,10 @@
 ﻿<Properties StartupConfiguration="{3E74BEEF-D2AC-4A8B-8E2F-3724D1790505}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="MosesApp.Core/Source/Service/AzureDataService.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MosesApp.Droid/Source/Views/Login/FirstView.cs">
     <Files>
-      <File FileName="MosesApp.Core/Source/Service/AzureDataService.cs" Line="28" Column="1" />
-      <File FileName="MosesApp.Droid/Source/Views/FirstView.cs" Line="38" Column="36" />
-      <File FileName="MosesApp.Core/Source/DataModel/Profile.cs" Line="5" Column="3" />
-      <File FileName="MosesApp.Droid/Source/Views/SplashScreen.cs" Line="18" Column="4" />
+      <File FileName="MosesApp.Core/Source/Service/ProfileDataService.cs" Line="44" Column="4" />
+      <File FileName="MosesApp.Droid/Source/Views/Login/RegisterView.cs" Line="6" Column="40" />
+      <File FileName="MosesApp.Droid/Source/Views/Login/FirstView.cs" Line="8" Column="31" />
+      <File FileName="MosesApp.Droid/Source/Views/Login/LoginView.cs" Line="6" Column="44" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
@@ -12,6 +12,6 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.MosesApp.Droid AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.192.168.56.101:5555" />
+  <MonoDevelop.Ide.ItemProperties.MosesApp.Droid PreferredExecutionTarget="Android.192.168.56.101:5555" />
   <MultiItemStartupConfigurations />
 </Properties>

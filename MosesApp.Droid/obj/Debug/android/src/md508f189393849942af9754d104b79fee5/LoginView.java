@@ -2,7 +2,7 @@ package md508f189393849942af9754d104b79fee5;
 
 
 public class LoginView
-	extends mvvmcross.droid.views.MvxActivity
+	extends md59766a46f25d47e5f07a3ea11bb4701f4.BaseActivity_2
 	implements
 		mono.android.IGCUserPeer
 {
@@ -10,7 +10,6 @@ public class LoginView
 	public static final String __md_methods;
 	static {
 		__md_methods = 
-			"n_onCreate:(Landroid/os/Bundle;)V:GetOnCreate_Landroid_os_Bundle_Handler\n" +
 			"";
 		mono.android.Runtime.register ("MosesApp.Droid.Source.Views.LoginView, MosesApp.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", LoginView.class, __md_methods);
 	}
@@ -22,14 +21,6 @@ public class LoginView
 		if (getClass () == LoginView.class)
 			mono.android.TypeManager.Activate ("MosesApp.Droid.Source.Views.LoginView, MosesApp.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "", this, new java.lang.Object[] {  });
 	}
-
-
-	public void onCreate (android.os.Bundle p0)
-	{
-		n_onCreate (p0);
-	}
-
-	private native void n_onCreate (android.os.Bundle p0);
 
 	private java.util.ArrayList refList;
 	public void monodroidAddReference (java.lang.Object obj)

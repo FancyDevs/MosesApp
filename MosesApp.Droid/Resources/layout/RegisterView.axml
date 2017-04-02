@@ -11,28 +11,28 @@
         <EditText
             style="@style/PreLoginEditText"
             android:id="@+id/edittext_username"
-            android:hint="Username"/>
+            android:hint="Username" />
         <EditText
             style="@style/PreLoginEditText"
             android:id="@+id/edittext_password"
             android:hint="Password"
-            android:inputType="textPassword"/>
+            android:inputType="textPassword" />
         <EditText
             style="@style/PreLoginEditText"
             android:id="@+id/edittext_firstname"
-            android:hint="First Name"/>
+            android:hint="First Name" />
         <EditText
             style="@style/PreLoginEditText"
             android:id="@+id/edittext_lastname"
-            android:hint="Last Name"/>
+            android:hint="Last Name" />
         <EditText
             style="@style/PreLoginEditText"
             android:id="@+id/edittext_email"
             android:hint="Email"
-            android:inputType="textEmailAddress"/>
-          <Button
-              style="@style/PreLoginButton"
-              android:id="@+id/button_register"
-              android:text="Register" />
+            android:inputType="textEmailAddress" />
+        <Button
+            style="@style/PreLoginButton"
+            android:id="@+id/button_register"
+            android:text="Register" />
     </LinearLayout>
 </RelativeLayout>
