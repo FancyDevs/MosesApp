@@ -26,6 +26,10 @@ MosesApp.Droid.Source.Views.Login.RegisterView, MosesApp.Droid;md55bb0465f043715
 MosesApp.Droid.Source.Views.Login.RegisterView, MosesApp.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md55bb0465f043715dd0e3e7c22105e1f82.RegisterView
 MosesApp.Droid.Source.Views.Login.RegisterView;md55bb0465f043715dd0e3e7c22105e1f82.RegisterView
 mosesapp.droid.source.views.login.RegisterView;md55bb0465f043715dd0e3e7c22105e1f82.RegisterView
+MosesApp.Droid.Views.Login.CreateAccountView, MosesApp.Droid;md51335a73305baa4a96f5b4d6e009e08eb.CreateAccountView
+MosesApp.Droid.Views.Login.CreateAccountView, MosesApp.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md51335a73305baa4a96f5b4d6e009e08eb.CreateAccountView
+MosesApp.Droid.Views.Login.CreateAccountView;md51335a73305baa4a96f5b4d6e009e08eb.CreateAccountView
+mosesapp.droid.views.login.CreateAccountView;md51335a73305baa4a96f5b4d6e009e08eb.CreateAccountView
 MvvmCross.Platform.Droid.MvxJavaContainer, MvvmCross.Platform.Droid;md5fbdfe15bdb740bba08c1f621e9dd1063.MvxJavaContainer
 MvvmCross.Platform.Droid.MvxJavaContainer, MvvmCross.Platform.Droid, Version=4.0.0.0, Culture=neutral, PublicKeyToken=null;md5fbdfe15bdb740bba08c1f621e9dd1063.MvxJavaContainer
 MvvmCross.Platform.Droid.MvxJavaContainer;md5fbdfe15bdb740bba08c1f621e9dd1063.MvxJavaContainer

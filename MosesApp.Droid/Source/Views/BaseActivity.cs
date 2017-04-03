@@ -22,7 +22,12 @@ namespace MosesApp.Droid
 
 			base.OnCreate(bundle);
 
+			//Set the layout to the view
 			if (LayoutResId > 0) SetContentView(LayoutResId);
+
+			//This allows the smooth transition between screens
+			OverridePendingTransition(0, 0);
+
 			SetupView();
 		}
 

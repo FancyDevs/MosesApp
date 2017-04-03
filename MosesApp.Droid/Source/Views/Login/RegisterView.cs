@@ -1,8 +1,7 @@
 using Android.App;
 using Android.Content.PM;
-using MosesApp.Core;
-using MosesApp.Core.Service;
-using MosesApp.Core.ViewModels;
+using Android.Widget;
+using MosesApp.Core.ViewModels.Login;
 using MvvmCross.Binding.BindingContext;
 
 namespace MosesApp.Droid.Source.Views.Login
@@ -13,11 +12,16 @@ namespace MosesApp.Droid.Source.Views.Login
     {
 		protected override int LayoutResId => Resource.Layout.RegisterView;
 
+		Button registerButton;
+
+		protected override void OnInitializeComponents()
+		{
+			registerButton = FindViewById<Button>(Resource.Id.button_register);
+		}
+
 		protected override void SetupBindings(MvxFluentBindingDescriptionSet<RegisterView, RegisterViewModel> bindingSet)
 		{
-			GlobalValues globalValues = GlobalValues.Instance;
-			ProfileDataService profileService = new ProfileDataService(globalValues.GetAzureDataService());
-			profileService.AddProfile("Joshua", "Davis");
+			bindingSet.Bind(registerButton).For(registerButton.ClickEvent()).To(vm => vm.DoRegisterProfile);
 		}
 	}
 }

@@ -44,6 +44,7 @@
     <Compile Include="Source\Service\ProfileDataService.cs" />
     <Compile Include="Source\ViewModels\Login\RegisterViewModel.cs" />
     <Compile Include="Source\GlobalValues.cs" />
+    <Compile Include="Source\ViewModels\Login\CreateAccountViewModel.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
@@ -91,6 +92,7 @@
     <Folder Include="Source\DataModel\" />
     <Folder Include="Source\Service\" />
     <Folder Include="Source\ViewModels\Login\" />
+    <Folder Include="Resources\" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\Portable\$(TargetFrameworkVersion)\Microsoft.Portable.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

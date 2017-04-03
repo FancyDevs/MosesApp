@@ -67,30 +67,37 @@ containing a value of this type.
         public static final int MvxTemplate=0x7f010002;
     }
     public static final class color {
+        public static final int black=0x7f050002;
         public static final int lightbluegrey=0x7f050000;
         public static final int white=0x7f050001;
     }
     public static final class drawable {
         public static final int cross_background=0x7f020000;
         public static final int icon=0x7f020001;
-        public static final int splash=0x7f020002;
+        public static final int preloginbuttonbackground=0x7f020002;
+        public static final int splash=0x7f020003;
     }
     public static final class id {
         public static final int MvvmCrossTagId=0x7f040000;
         public static final int MvxBindingTagUnique=0x7f040001;
-        public static final int button_login=0x7f040003;
-        public static final int button_register=0x7f040002;
-        public static final int edittext_email=0x7f040008;
-        public static final int edittext_firstname=0x7f040006;
-        public static final int edittext_lastname=0x7f040007;
-        public static final int edittext_password=0x7f040005;
-        public static final int edittext_username=0x7f040004;
+        public static final int button_attendee=0x7f040004;
+        public static final int button_host=0x7f040003;
+        public static final int button_login=0x7f040007;
+        public static final int button_neither=0x7f040005;
+        public static final int button_register=0x7f040006;
+        public static final int create_account_text=0x7f040002;
+        public static final int edittext_email=0x7f04000c;
+        public static final int edittext_firstname=0x7f04000a;
+        public static final int edittext_lastname=0x7f04000b;
+        public static final int edittext_password=0x7f040009;
+        public static final int edittext_username=0x7f040008;
     }
     public static final class layout {
-        public static final int firstview=0x7f030000;
-        public static final int loginview=0x7f030001;
-        public static final int registerview=0x7f030002;
-        public static final int splashscreen=0x7f030003;
+        public static final int createaccountview=0x7f030000;
+        public static final int firstview=0x7f030001;
+        public static final int loginview=0x7f030002;
+        public static final int registerview=0x7f030003;
+        public static final int splashscreen=0x7f030004;
     }
     public static final class string {
         public static final int ApplicationName=0x7f060001;
@@ -101,6 +108,7 @@ containing a value of this type.
          */
         public static final int PreLoginButton=0x7f070002;
         public static final int PreLoginEditText=0x7f070003;
+        public static final int PreLoginTextView=0x7f070004;
         public static final int Theme_PreLogin=0x7f070001;
         public static final int Theme_Splash=0x7f070000;
     }

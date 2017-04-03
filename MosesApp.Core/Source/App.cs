@@ -1,4 +1,5 @@
 using MvvmCross.Platform.IoC;
+using MosesApp.Core.ViewModels.Login;
 
 namespace MosesApp.Core
 {
@@ -11,7 +12,7 @@ namespace MosesApp.Core
                 .AsInterfaces()
                 .RegisterAsLazySingleton();
 
-            RegisterAppStart<ViewModels.FirstViewModel>();
+            RegisterAppStart<FirstViewModel>();
         }
     }
 }

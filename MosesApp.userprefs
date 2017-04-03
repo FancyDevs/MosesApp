@@ -1,10 +1,14 @@
 ﻿<Properties StartupConfiguration="{3E74BEEF-D2AC-4A8B-8E2F-3724D1790505}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="MosesApp.Droid/Source/Views/Login/FirstView.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MosesApp.Droid/Resources/values/Colors.xml">
     <Files>
-      <File FileName="MosesApp.Core/Source/Service/ProfileDataService.cs" Line="44" Column="4" />
-      <File FileName="MosesApp.Droid/Source/Views/Login/RegisterView.cs" Line="6" Column="40" />
-      <File FileName="MosesApp.Droid/Source/Views/Login/FirstView.cs" Line="8" Column="31" />
-      <File FileName="MosesApp.Droid/Source/Views/Login/LoginView.cs" Line="6" Column="44" />
+      <File FileName="MosesApp.Droid/Source/Views/Login/FirstView.cs" Line="20" Column="4" />
+      <File FileName="MosesApp.Droid/Source/Views/Login/CreateAccountView.cs" Line="20" Column="4" />
+      <File FileName="MosesApp.Droid/Source/Views/Login/LoginView.cs" Line="13" Column="1" />
+      <File FileName="MosesApp.Droid/Source/Views/Login/RegisterView.cs" Line="18" Column="4" />
+      <File FileName="MosesApp.Droid/Resources/values/Styles.xml" Line="22" Column="71" />
+      <File FileName="MosesApp.Droid/Resources/values/Colors.xml" Line="3" Column="28" />
+      <File FileName="MosesApp.Droid/Source/Views/BaseActivity.cs" Line="26" Column="1" />
+      <File FileName="MosesApp.Droid/Resources/drawable/preloginbuttonbackground.xml" Line="6" Column="39" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
@@ -12,6 +16,6 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.MosesApp.Droid PreferredExecutionTarget="Android.192.168.56.101:5555" />
+  <MonoDevelop.Ide.ItemProperties.MosesApp.Droid AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.192.168.56.101:5555" />
   <MultiItemStartupConfigurations />
 </Properties>

@@ -86,6 +86,9 @@ namespace MosesApp.Droid
 		public partial class Color
 		{
 			
+			// aapt resource value: 0x7f050002
+			public const int black = 2131034114;
+			
 			// aapt resource value: 0x7f050000
 			public const int lightbluegrey = 2131034112;
 			
@@ -112,7 +115,10 @@ namespace MosesApp.Droid
 			public const int Icon = 2130837505;
 			
 			// aapt resource value: 0x7f020002
-			public const int splash = 2130837506;
+			public const int preloginbuttonbackground = 2130837506;
+			
+			// aapt resource value: 0x7f020003
+			public const int splash = 2130837507;
 			
 			static Drawable()
 			{
@@ -133,26 +139,38 @@ namespace MosesApp.Droid
 			// aapt resource value: 0x7f040001
 			public const int MvxBindingTagUnique = 2130968577;
 			
+			// aapt resource value: 0x7f040004
+			public const int button_attendee = 2130968580;
+			
 			// aapt resource value: 0x7f040003
-			public const int button_login = 2130968579;
-			
-			// aapt resource value: 0x7f040002
-			public const int button_register = 2130968578;
-			
-			// aapt resource value: 0x7f040008
-			public const int edittext_email = 2130968584;
-			
-			// aapt resource value: 0x7f040006
-			public const int edittext_firstname = 2130968582;
+			public const int button_host = 2130968579;
 			
 			// aapt resource value: 0x7f040007
-			public const int edittext_lastname = 2130968583;
+			public const int button_login = 2130968583;
 			
 			// aapt resource value: 0x7f040005
-			public const int edittext_password = 2130968581;
+			public const int button_neither = 2130968581;
 			
-			// aapt resource value: 0x7f040004
-			public const int edittext_username = 2130968580;
+			// aapt resource value: 0x7f040006
+			public const int button_register = 2130968582;
+			
+			// aapt resource value: 0x7f040002
+			public const int create_account_text = 2130968578;
+			
+			// aapt resource value: 0x7f04000c
+			public const int edittext_email = 2130968588;
+			
+			// aapt resource value: 0x7f04000a
+			public const int edittext_firstname = 2130968586;
+			
+			// aapt resource value: 0x7f04000b
+			public const int edittext_lastname = 2130968587;
+			
+			// aapt resource value: 0x7f040009
+			public const int edittext_password = 2130968585;
+			
+			// aapt resource value: 0x7f040008
+			public const int edittext_username = 2130968584;
 			
 			static Id()
 			{
@@ -168,16 +186,19 @@ namespace MosesApp.Droid
 		{
 			
 			// aapt resource value: 0x7f030000
-			public const int FirstView = 2130903040;
+			public const int CreateAccountView = 2130903040;
 			
 			// aapt resource value: 0x7f030001
-			public const int LoginView = 2130903041;
+			public const int FirstView = 2130903041;
 			
 			// aapt resource value: 0x7f030002
-			public const int RegisterView = 2130903042;
+			public const int LoginView = 2130903042;
 			
 			// aapt resource value: 0x7f030003
-			public const int SplashScreen = 2130903043;
+			public const int RegisterView = 2130903043;
+			
+			// aapt resource value: 0x7f030004
+			public const int SplashScreen = 2130903044;
 			
 			static Layout()
 			{
@@ -216,6 +237,9 @@ namespace MosesApp.Droid
 			
 			// aapt resource value: 0x7f070003
 			public const int PreLoginEditText = 2131165187;
+			
+			// aapt resource value: 0x7f070004
+			public const int PreLoginTextView = 2131165188;
 			
 			// aapt resource value: 0x7f070001
 			public const int Theme_PreLogin = 2131165185;

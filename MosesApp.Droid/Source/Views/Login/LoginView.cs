@@ -1,6 +1,6 @@
 using Android.App;
 using Android.Content.PM;
-using MosesApp.Core.ViewModels;
+using MosesApp.Core.ViewModels.Login;
 using MvvmCross.Binding.BindingContext;
 
 namespace MosesApp.Droid.Source.Views.Login

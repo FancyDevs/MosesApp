@@ -1,19 +1,19 @@
 using MvvmCross.Core.ViewModels;
 using System.Windows.Input;
 
-namespace MosesApp.Core.ViewModels
+namespace MosesApp.Core.ViewModels.Login
 {
     public class FirstViewModel : MvxViewModel
     {
-        public ICommand GoToLogin { get { return new MvxCommand(DoGoToLogin); } }
-        public ICommand GoToRegister { get { return new MvxCommand(DoGoToRegister); } }
+        public ICommand DoGoToLogin { get { return new MvxCommand(GoToLogin); } }
+        public ICommand DoGoToRegister { get { return new MvxCommand(GoToRegister); } }
 
-        void DoGoToLogin()
+        void GoToLogin()
 		{
 			ShowViewModel<LoginViewModel>();
 		}
 
-        void DoGoToRegister()
+        void GoToRegister()
         {
             ShowViewModel<RegisterViewModel>();
         }

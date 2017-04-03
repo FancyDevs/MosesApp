@@ -19,18 +19,30 @@
     <item name="android:layout_marginLeft">20dp</item>
     <item name="android:layout_marginRight">20dp</item>
     <item name="android:layout_marginBottom">20dp</item>
-    <item name="android:background">@color/white</item>
+    <item name="android:background">@drawable/preloginbuttonbackground</item>
     <item name="android:textSize">25sp</item>
   </style>
   
   <style name="PreLoginEditText">
     <item name="android:layout_width">fill_parent</item>
-    <item name="android:layout_height">40dp</item>
+    <item name="android:layout_height">wrap_content</item>
     <item name="android:layout_marginLeft">20dp</item>
     <item name="android:layout_marginRight">20dp</item>
     <item name="android:layout_marginBottom">20dp</item>
     <item name="android:padding">10dp</item>
-    <item name="android:textAlignment">center</item>
+    <item name="android:background">@color/lightbluegrey</item>
+    <item name="android:textSize">20sp</item>
+  </style>
+	
+  <style name="PreLoginTextView">
+    <item name="android:layout_width">fill_parent</item>
+    <item name="android:layout_height">wrap_content</item>
+    <item name="android:layout_marginLeft">20dp</item>
+    <item name="android:layout_marginRight">20dp</item>
+    <item name="android:layout_marginBottom">20dp</item>
+    <item name="android:padding">10dp</item>
+	<item name="android:textColor">@color/black</item>
+    <item name="android:gravity">center</item>
     <item name="android:background">@color/lightbluegrey</item>
     <item name="android:textSize">20sp</item>
   </style>
