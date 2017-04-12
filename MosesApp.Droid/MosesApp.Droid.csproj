@@ -123,6 +123,8 @@
     <Compile Include="Source\Views\BaseActivity.cs" />
     <Compile Include="Source\Views\Login\RegisterView.cs" />
     <Compile Include="Source\Views\Login\CreateAccountView.cs" />
+    <Compile Include="Source\Views\Chat\ChatView.cs" />
+    <Compile Include="Source\Controls\BottomToolbar.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="GettingStarted.Xamarin" />
@@ -133,8 +135,11 @@
     <AndroidResource Include="Resources\layout\FirstView.axml" />
     <AndroidResource Include="Resources\layout\RegisterView.axml" />
     <AndroidResource Include="Resources\layout\LoginView.axml" />
-    <AndroidResource Include="Resources\layout\CreateAccountView.xml" />
+    <AndroidResource Include="Resources\layout\CreateAccountView.axml" />
     <AndroidResource Include="Resources\drawable\preloginbuttonbackground.xml" />
+    <AndroidResource Include="Resources\layout\ChatView.axml" />
+    <AndroidResource Include="Resources\drawable\toolbar_buttons.xml" />
+    <AndroidResource Include="Resources\layout\BottomToolbar.axml" />
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\values\Strings.xml" />
@@ -161,6 +166,8 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Source\Views\Login\" />
+    <Folder Include="Source\Views\Chat\" />
+    <Folder Include="Source\Controls\" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

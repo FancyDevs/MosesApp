@@ -1,9 +1,9 @@
+using MosesApp.Core.ViewModels.Chat;
 using MvvmCross.Platform.IoC;
-using MosesApp.Core.ViewModels.Login;
 
 namespace MosesApp.Core
 {
-    public class App : MvvmCross.Core.ViewModels.MvxApplication
+	public class App : MvvmCross.Core.ViewModels.MvxApplication
     {
         public override void Initialize()
         {
@@ -12,7 +12,7 @@ namespace MosesApp.Core
                 .AsInterfaces()
                 .RegisterAsLazySingleton();
 
-            RegisterAppStart<FirstViewModel>();
+            RegisterAppStart<ChatViewModel>();
         }
     }
 }

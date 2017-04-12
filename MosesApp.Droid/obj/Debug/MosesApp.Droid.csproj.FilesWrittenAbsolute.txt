@@ -42,3 +42,6 @@
 /Users/joshua.davis/Sites/Moses/MosesApp.Droid/bin/Debug/Microsoft.WindowsAzure.Mobile.SQLiteStore.dll
 /Users/joshua.davis/Sites/Moses/MosesApp.Droid/obj/Debug/res/layout/createaccountview.xml
 /Users/joshua.davis/Sites/Moses/MosesApp.Droid/obj/Debug/res/drawable/preloginbuttonbackground.xml
+/Users/joshua.davis/Sites/Moses/MosesApp.Droid/obj/Debug/res/layout/chatview.xml
+/Users/joshua.davis/Sites/Moses/MosesApp.Droid/obj/Debug/res/drawable/toolbar_buttons.xml
+/Users/joshua.davis/Sites/Moses/MosesApp.Droid/obj/Debug/res/layout/bottomtoolbar.xml
