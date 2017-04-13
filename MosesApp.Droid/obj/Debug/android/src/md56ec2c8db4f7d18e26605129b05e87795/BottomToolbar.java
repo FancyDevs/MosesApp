@@ -2,7 +2,7 @@ package md56ec2c8db4f7d18e26605129b05e87795;
 
 
 public class BottomToolbar
-	extends android.view.View
+	extends android.widget.LinearLayout
 	implements
 		mono.android.IGCUserPeer
 {

@@ -7,7 +7,11 @@
 /Users/joshua.davis/Sites/Moses/MosesApp.Droid/obj/Debug/res/layout/firstview.xml
 /Users/joshua.davis/Sites/Moses/MosesApp.Droid/obj/Debug/res/layout/registerview.xml
 /Users/joshua.davis/Sites/Moses/MosesApp.Droid/obj/Debug/res/layout/loginview.xml
-/Users/joshua.davis/Sites/Moses/MosesApp.Droid/obj/Debug/res/layout/main.xml
+/Users/joshua.davis/Sites/Moses/MosesApp.Droid/obj/Debug/res/layout/createaccountview.xml
+/Users/joshua.davis/Sites/Moses/MosesApp.Droid/obj/Debug/res/drawable/preloginbuttonbackground.xml
+/Users/joshua.davis/Sites/Moses/MosesApp.Droid/obj/Debug/res/layout/chatview.xml
+/Users/joshua.davis/Sites/Moses/MosesApp.Droid/obj/Debug/res/drawable/toolbar_buttons.xml
+/Users/joshua.davis/Sites/Moses/MosesApp.Droid/obj/Debug/res/layout/bottomtoolbar.xml
 /Users/joshua.davis/Sites/Moses/MosesApp.Droid/obj/Debug/res/values/strings.xml
 /Users/joshua.davis/Sites/Moses/MosesApp.Droid/obj/Debug/res/drawable/icon.png
 /Users/joshua.davis/Sites/Moses/MosesApp.Droid/obj/Debug/res/values/styles.xml
@@ -27,8 +31,6 @@
 /Users/joshua.davis/Sites/Moses/MosesApp.Droid/bin/Debug/MvvmCross.Binding.dll
 /Users/joshua.davis/Sites/Moses/MosesApp.Droid/bin/Debug/MvvmCross.Binding.Droid.dll
 /Users/joshua.davis/Sites/Moses/MosesApp.Droid/bin/Debug/MvvmCross.Localization.dll
-/Users/joshua.davis/Sites/Moses/MosesApp.Droid/bin/Debug/MosesApp.Core.dll
-/Users/joshua.davis/Sites/Moses/MosesApp.Droid/bin/Debug/MosesApp.Core.dll.mdb
 /Users/joshua.davis/Sites/Moses/MosesApp.Droid/bin/Debug/System.Net.Http.Extensions.dll
 /Users/joshua.davis/Sites/Moses/MosesApp.Droid/bin/Debug/System.Net.Http.Primitives.dll
 /Users/joshua.davis/Sites/Moses/MosesApp.Droid/bin/Debug/Newtonsoft.Json.dll
@@ -40,8 +42,5 @@
 /Users/joshua.davis/Sites/Moses/MosesApp.Droid/bin/Debug/SQLitePCLRaw.batteries_green.dll
 /Users/joshua.davis/Sites/Moses/MosesApp.Droid/bin/Debug/SQLitePCLRaw.batteries_v2.dll
 /Users/joshua.davis/Sites/Moses/MosesApp.Droid/bin/Debug/Microsoft.WindowsAzure.Mobile.SQLiteStore.dll
-/Users/joshua.davis/Sites/Moses/MosesApp.Droid/obj/Debug/res/layout/createaccountview.xml
-/Users/joshua.davis/Sites/Moses/MosesApp.Droid/obj/Debug/res/drawable/preloginbuttonbackground.xml
-/Users/joshua.davis/Sites/Moses/MosesApp.Droid/obj/Debug/res/layout/chatview.xml
-/Users/joshua.davis/Sites/Moses/MosesApp.Droid/obj/Debug/res/drawable/toolbar_buttons.xml
-/Users/joshua.davis/Sites/Moses/MosesApp.Droid/obj/Debug/res/layout/bottomtoolbar.xml
+/Users/joshua.davis/Sites/Moses/MosesApp.Droid/bin/Debug/MosesApp.Core.dll
+/Users/joshua.davis/Sites/Moses/MosesApp.Droid/bin/Debug/MosesApp.Core.dll.mdb

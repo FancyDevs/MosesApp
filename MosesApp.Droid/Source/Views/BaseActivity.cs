@@ -47,7 +47,7 @@ namespace MosesApp.Droid
 		}
 	}
 
-	public abstract class BaseActivity<TView, TViewModel> : BaseActivity<TViewModel>
+	public abstract class BaseActivity<TView, TViewModel> : BaseActivity<TViewModel> 
 		where TViewModel : class, IMvxViewModel
 		where TView : class, IMvxBindingContextOwner
 	{

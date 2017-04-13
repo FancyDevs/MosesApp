@@ -1,1 +1,33 @@
-<FrameLayout android:layout_width="match_parent" android:layout_height="match_parent" xmlns:android="http://schemas.android.com/apk/res/android"><LinearLayout android:id="@+id/bottom_toolbar" android:layout_width="match_parent" android:layout_height="50dp" android:orientation="horizontal" android:background="@color/white"><ImageButton style="@style/BottomToolbarButtons" android:id="@+id/button_toolbar_chat" /><ImageButton style="@style/BottomToolbarButtons" android:id="@+id/button_toolbar_study" /><ImageButton style="@style/BottomToolbarButtons" android:id="@+id/button_toolbar_wall" /><ImageButton style="@style/BottomToolbarButtons" android:id="@+id/button_toolbar_profile" /><ImageButton style="@style/BottomToolbarButtons" android:id="@+id/button_toolbar_menu" /></LinearLayout><View android:layout_width="match_parent" android:layout_height="2dp" android:layout_above="@id/bottom_toolbar" android:background="@color/darkblue" /></FrameLayout>
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+	android:orientation="vertical"
+	android:layout_gravity="bottom">
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="@color/darkblue" />
+    <LinearLayout
+        android:id="@+id/bottom_toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:orientation="horizontal"
+		android:background="@color/white">
+        <ImageButton
+            style="@style/BottomToolbarButtons"
+            android:id="@+id/button_toolbar_chat" />
+        <ImageButton
+            style="@style/BottomToolbarButtons"
+            android:id="@+id/button_toolbar_study" />
+        <ImageButton
+            style="@style/BottomToolbarButtons"
+            android:id="@+id/button_toolbar_wall" />
+        <ImageButton
+            style="@style/BottomToolbarButtons"
+            android:id="@+id/button_toolbar_profile" />
+        <ImageButton
+            style="@style/BottomToolbarButtons"
+            android:id="@+id/button_toolbar_menu" />
+    </LinearLayout>
+</FrameLayout>

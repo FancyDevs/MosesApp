@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
-    android:layout_height="match_parent">
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="@color/darkblue" />
     <LinearLayout
         android:id="@+id/bottom_toolbar"
         android:layout_width="match_parent"
@@ -24,9 +29,4 @@
             style="@style/BottomToolbarButtons"
             android:id="@+id/button_toolbar_menu" />
     </LinearLayout>
-    <View
-        android:layout_width="match_parent"
-        android:layout_height="2dp"
-        android:layout_above="@id/bottom_toolbar"
-        android:background="@color/darkblue" />
-</FrameLayout>
+</LinearLayout>
